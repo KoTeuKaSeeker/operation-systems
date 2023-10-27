@@ -1,0 +1,9 @@
+sleep 1
+echo Hello!
+sleep 1
+echo How are you?
+sleep 1
+echo What are you doing?
+sleep 1
+echo If you want, take this:
+sleep 1

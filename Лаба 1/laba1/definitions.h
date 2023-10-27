@@ -1,0 +1,8 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define MAX_USER_POMPT_SIZE 2048
+#define MAX_WORDS 64
+#define MAX_DIRECTORIES 256
+
+#endif
