@@ -94,7 +94,6 @@ int main(int argc, char* argv[]) {
                             memcpy(tlb_table[x], tlb_table[(tlb_size - 1) % TLB_SIZE], 2);
                             tlb_size--;
                         }
-    
                 }
 
                 memcpy(memory + free_page * PAGE_SIZE, backing_store + page * PAGE_SIZE, PAGE_SIZE);
